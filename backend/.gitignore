@@ -1,0 +1,8 @@
+node_modules/
+front-end/node_modules/
+.expo/
+front-end/.expo/
+*.exe
+*.zip
+*.mp4
+*.mkv
